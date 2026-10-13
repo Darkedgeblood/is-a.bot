@@ -5,5 +5,12 @@
   },
   "records": {
     "CNAME": "darkedgeblood.github.io"
+  },
+  "subdomains": {
+    "_github-pages-challenge-Darkedgeblood": {
+      "records": {
+        "TXT": "41007d9a2dc01329356a8402ea8e2c"
+      }
+    }
   }
 }
