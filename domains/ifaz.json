@@ -5,6 +5,8 @@
   },
   "records": {
     "CNAME": "darkedgeblood.github.io",
-    "_github-pages-challenge-Darkedgeblood": "41007d9a2dc01329356a8402ea8e2c"
+    "TXT": {
+      "_github-pages-challenge-Darkedgeblood": "41007d9a2dc01329356a8402ea8e2c"
+    }
   }
 }
